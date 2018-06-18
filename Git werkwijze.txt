@@ -21,6 +21,3 @@ git add .
 git status
 git commit -m "Bericht met wat je hebt gecommit"
 git push
-
-
-Test Ruben
