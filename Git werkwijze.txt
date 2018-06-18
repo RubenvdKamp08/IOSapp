@@ -1,0 +1,25 @@
+Git uitleg:
+NOOIT IN DE MASTER BRANCH WERKEN
+
+Status van git zien:
+git status
+
+Alle gewijzigde bestanden aan een nieuwe commit toevoegen:
+git commit -m "Bericht met wat je hebt gecommit"
+
+Alle wijzigingen pushen naar de branch
+git push
+
+
+
+De standaard volgorde:
+Voordat je bezig gaat met programmeren controleren als je in de goede branch zit, anders naar de goede branch:
+git checkout [JE NAAM]
+
+Zodra je bestanden hebt bewerkt en je bent klaar:
+git add .
+git status
+git commit -m "Bericht met wat je hebt gecommit"
+git push
+
+
